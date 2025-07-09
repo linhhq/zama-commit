@@ -1,11 +1,3 @@
-# ✅ Complete Guide: How to Do More Than 10 Commits In GitHub Before 10 July
-
-This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
-
----
-
-## 🪜 Step-by-Step Instructions
-
 ### 1️⃣ Create a New Repository
 
 - Visit: https://github.com/new  
@@ -99,24 +91,8 @@ git push
 
 ---
 
-💥 You’re Done!
 
 • Close Every Tab ( Browser )
 
 • Just Wait 5-10 Minutes Max
 
-• You now have more than 10 public commits visible on your profile ( Before 10 July ) — ready to use for Zama Developer Program.
-
-## 🙌 Guide Created by: [@EarnByAbhi](https://x.com/earnbyabhi)
-
-Follow & Stay Connected for More Zama Alpha, Airdrops & Dev Tutorials
-
-- 📍 X (Twitter): [@EarnByAbhi](https://x.com/earnbyabhi)
-- 💬 Telegram: [@EarnByAbhi23](https://t.me/earnbyabhi23)
-- ▶️ YouTube: [EarnByAbhi](https://www.youtube.com/@EarnByAbhi)
-
-> 🧠 Join our Telegram Community  
-For live help, updates, & early alpha drops  
-👉 [https://t.me/earnbyabhi23](https://t.me/earnbyabhi23)
-
----
